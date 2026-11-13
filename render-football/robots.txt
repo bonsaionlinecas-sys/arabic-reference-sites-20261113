@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aldawriu-alsueudiu.onrender.com/sitemap.xml

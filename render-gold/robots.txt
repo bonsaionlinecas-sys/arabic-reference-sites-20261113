@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aisear-aldhahab.onrender.com/sitemap.xml
