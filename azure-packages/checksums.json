@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "azure-football",
+      "name": "azure-football.zip",
+      "home": "https://aldawriu-alsueudiu-hkbpdcfxcjafa3cz.westus3-01.azurewebsites.net/",
+      "archiveSha256": "a0d94bc0de94c62f826d01af136c5b96de43acb6bad08925854ea1f68a5c6199",
+      "bytes": 176205,
+      "htmlSha256": "cd9f9953ffbb85e04fa8efb85d5c87f8998b13c06e5a4ee6b9dca3f036a8a4b4",
+      "googleSha256": "a4324aa2758a2fd3b5d81be28aca00838bdd058ef7560ff644c1a806117bf5cc"
+    },
+    {
+      "id": "azure-gold",
+      "name": "azure-gold.zip",
+      "home": "https://aisear-aldhahab-hseqd7gyaqetd0gx.westus3-01.azurewebsites.net/",
+      "archiveSha256": "965d4009307d68e6f353b24e354b5d564288515cc139895541b6e5b094996dc0",
+      "bytes": 176347,
+      "htmlSha256": "91b68cc7dc6335ca8a0f4e2c932e559da794e7ea0b87367c9eb8034600578672",
+      "googleSha256": "a4324aa2758a2fd3b5d81be28aca00838bdd058ef7560ff644c1a806117bf5cc"
+    }
+  ]
+}
